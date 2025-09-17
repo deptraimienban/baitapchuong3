@@ -11,6 +11,7 @@ public class bai26 {
 	    }
 	    public static void main(String[] args) {
 	        Scanner sc = new Scanner(System.in);
+	        System.out.println("Nhập N = ");
 	        int N = sc.nextInt();
 	        sc.close();
 	        int count = 0, num = 2, sum = 0;
